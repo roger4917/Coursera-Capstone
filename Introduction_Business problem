@@ -1,0 +1,4 @@
+## Introduction: Business Problem <a name="introduction"></a>
+In this project we will try to find an optimal location for a restaurant. Specifically, this report will be targeted to stakeholders interested in opening a Spanish restaurant in Bari, Italy.
+Since there are not any Spanish restaurant in Bari, but there are lots of restaurants, especially Italian ones, we will try to detect locations that are not already crowded with restaurants. We would also prefer locations as close to city center as possible, in particular in the historical centre, close to historical site Castello Svevo.
+We will use our data science powers to generate a few most promising places based on this criteria. Advantages of each area will then be clearly expressed so that best possible final location can be chosen by stakeholders.
